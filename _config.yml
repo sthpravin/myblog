@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Prabin Shrestha"
+title: "{ Prabin Shrestha }"
+description: "Blog and website of Prabin Shrestha, blogging mainly for tech. Opinions expressed are mine."
+keywords: "shrestha, prabin, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
